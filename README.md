@@ -1,8 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,++Seja+bem+vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=33F734&random=false&width=435&lines=Ol%C3%A1!+Seja+bem+vindo(a)+ao+meu+perfil!;Me+chamo+Arthur.;Muito+prazer!)](https://git.io/typing-svg)
 <!--### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,++Seja+bem+vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
 **Dakorte/Dakorte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
