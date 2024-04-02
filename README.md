@@ -1,6 +1,9 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,++Seja+bem+vindo(a)+ao+meu+perfil!;Second+line+of+text)](https://git.io/typing-svg)
 
-<!--
+
+<!--### Hi there 👋
+
+
 **Dakorte/Dakorte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
